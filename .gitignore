@@ -1,0 +1,7 @@
+# directories
+tmp/
+notebook/.ipynb_checkpoints
+# file types
+*.pyc
+*.swp
+*.log
